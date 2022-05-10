@@ -2,8 +2,8 @@ let img = document.getElementsByTagName('img');
 let produto = document.getElementsByClassName('produto-descricao');
 let produto_page = Math.ceil(produto.length/4);
 let l = 0;
-let movePer = 25.34;
-let maxMove = 203;
+let movePer = 23;
+let maxMove = 46;
 
 let right_mover = ()=>{
     l = l + movePer;
