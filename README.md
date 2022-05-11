@@ -4,4 +4,4 @@
  Devem ser analisados os seguintes pontos:
   - Reestruturação do HTML, CSS e JS;
   - Adicionar comentários ao código;
-  - Trazer a responsividade.
+  - Trazer uma responsividade.
