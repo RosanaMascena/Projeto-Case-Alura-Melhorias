@@ -1,4 +1,4 @@
-# Melhorias-projeto-case-Alura
+# Projeto-Case-Alura-Melhorias
  Melhorias no projeto inicial, entregue no dia 09/05/2022.
 
  Devem ser analisados os seguintes pontos:
